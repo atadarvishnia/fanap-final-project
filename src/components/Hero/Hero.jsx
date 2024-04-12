@@ -38,7 +38,7 @@ const Hero = ({handleOrderPopup}) => {
   // Attention: aos is a library for animations. when you see (aos), that code is for animation.
   const settings = {
     dots: false,
-    arrows: false,
+    arrows: true,
     infinite: true,
     speed: 500,
     slidesToScroll: 1,
